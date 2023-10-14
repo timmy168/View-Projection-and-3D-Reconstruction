@@ -10,7 +10,7 @@ Python 3.7 ( You can use conda to create new environment )
 
 ## Installation
 
-### Seting ssh
+### Setting ssh
 (1)ssh-keygen -t rsa  
 (2)cat ~/.ssh/id_rsa.pub 
 (3)Go to your github account and add the ssh keys.
@@ -26,7 +26,7 @@ Python 3.7 ( You can use conda to create new environment )
 (1)Download dataset from: https://drive.google.com/file/d/1zHA2AYRtJOmlRaHNuXOvC_OaVxHe56M4/view 
 (2)Put it under the directory under the foder "replica_v1"
 
-### Complie
+### Compile
 (1)cd pdm-f23/hw0
 (2)pip install -r requirements.txt
 (3)cd habitat-sim && pip install -r requirements.txt && python setup.py  install --bullet --headless && cd ..
