@@ -52,4 +52,3 @@ Python 3.7 ( You can use conda to create new environment )
 
 (4)python reconstruct.py -f 1 -v my_icp 
 (This command allows you to specify the floor level ("-f 1") and the version of ICP to use ("-v my_icp") for the reconstruction process.)
-# View-Projection-and-3D-Reconstruction
