@@ -43,10 +43,10 @@ Python 3.7 ( You can use conda to create new environment )
 
 (3) Press any key to exit the code.
 
-(4) First projection results
+(4) First projection results:
 ![image](https://github.com/timmy168/View-Projection-and-3D-Reconstruction/blob/main/bev_result_1.png)
 
-(5) Second projection results
+(5) Second projection results:
 ![image](https://github.com/timmy168/View-Projection-and-3D-Reconstruction/blob/main/bev_result_2.png)
 
 ## 3D Scene Reconstruction
@@ -59,8 +59,8 @@ Python 3.7 ( You can use conda to create new environment )
 (4) python reconstruct.py -f 1 -v my_icp 
 (This command allows you to specify the floor level ("-f 1") and the version of ICP to use ("-v my_icp") for the reconstruction process.)
 
-(5) First floor reconstruction result
+(5) First floor reconstruction result:
 ![image](https://github.com/timmy168/View-Projection-and-3D-Reconstruction/blob/main/first_floor.png)
 
-(6) Second floor recondstruction result
+(6) Second floor recondstruction result:
 ![image](https://github.com/timmy168/View-Projection-and-3D-Reconstruction/blob/main/second_floor.png)
