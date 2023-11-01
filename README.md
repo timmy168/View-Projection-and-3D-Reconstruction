@@ -43,6 +43,9 @@ Python 3.7 ( You can use conda to create new environment )
 
 (3) Press any key to exit the code.
 
+![image](https://github.com/timmy168/View-Projection-and-3D-Reconstruction/blob/main/bev_result_1.png)
+![image](https://github.com/timmy168/View-Projection-and-3D-Reconstruction/blob/main/bev_result_2.png)
+
 ## 3D Scene Reconstruction
 (1) Run the code "load.py" to collect the data, using the key board to control the robot moving in the simulate scene.
 
